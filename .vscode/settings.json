@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "cupertino"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "disabled"
 }
